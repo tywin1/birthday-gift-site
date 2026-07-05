@@ -2,7 +2,7 @@
   "name": "birthday-gift-site",
   "version": "1.0.0",
   "scripts": {
-    "build": "npm run build"
+    "build": ""
   },
   "dependencies": {}
 }
